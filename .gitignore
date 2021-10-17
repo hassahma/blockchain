@@ -1,0 +1,43 @@
+/node_modules/
+.gradle
+/build/
+/wrapper
+settings.gradle
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+.java-version
+*.iws
+*.iml
+*.ipr
+/out
+
+### DDL Files ###
+*.jdbc
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+bin
+.gradle_home
+
+### macOS generated files
+.DS_Store
+
+### sdkman ###
+.sdkmanrc
+
+###Blackduck###
+detect.sh
